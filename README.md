@@ -15,4 +15,5 @@ Executando assim:
 - Criação de um documento READ.ME para "capa do desafio".
 
 - Realizando envio por meio de "command line" para o Github;
-  git status | git add *arquivos | git commit -m "mensagem" | git push origin master
+  
+  git status | git add *arquivos | git commit -m "mensagem" | git push origin master (main)
